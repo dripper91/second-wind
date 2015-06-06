@@ -1,4 +1,3 @@
-# One Manth Reels
+# One Month Rails
 
-CHECH IT OUT GAIS
-REPOZITURY
+Repository for Nylon app
