@@ -28,8 +28,17 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
     arel (5.0.1.20140414130214)
+<<<<<<< HEAD
     bootstrap-sass (3.1.0.2)
       sass (~> 3.2)
+=======
+    autoprefixer-rails (5.2.0)
+      execjs
+      json
+    bootstrap-sass (3.3.4.1)
+      autoprefixer-rails (>= 5.0.0.1)
+      sass (>= 3.2.19)
+>>>>>>> 7fcb213304da6a419e79152004fa6cb871fe3e60
     builder (3.2.2)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
