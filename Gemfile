@@ -5,13 +5,10 @@ gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
-<<<<<<< HEAD
 gem 'turbolinks'
 gem 'jquery-rails'
-=======
 gem 'jquery-rails'
 gem 'turbolinks'
->>>>>>> 7fcb213304da6a419e79152004fa6cb871fe3e60
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
 
